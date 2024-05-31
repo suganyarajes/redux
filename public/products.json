@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 15 Ultra",
+      "price": 999,
+      "quantity": 1,
+      "image": "https://cdn.pixabay.com/photo/2014/08/05/10/27/iphone-410311_1280.jpg",
+      "details": "The iPhone 15 Ultra is the latest flagship smartphone from Apple Inc. It features a stunning Super Retina XDR display, a powerful A15 Bionic chip, and advanced camera capabilities.",
+      "sustainability": "Apple Inc. is committed to sustainability. The iPhone 15 Ultra is made with recycled materials, and Apple has implemented energy-efficient manufacturing processes to reduce its carbon footprint."
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S23",
+      "price": 899,
+      "quantity": 1,
+      "image": "https://cdn.pixabay.com/photo/2017/06/14/17/41/galaxy-s8-2402805_1280.jpg",
+      "details": "The Samsung Galaxy S23 is a high-performance Android smartphone with a sleek design and innovative features. It boasts a powerful Exynos processor and a stunning Dynamic AMOLED display.",
+      "sustainability": "Samsung Electronics is committed to sustainability. The Galaxy S23 is made with eco-friendly materials, and Samsung has implemented recycling programs to reduce electronic waste."
+    },
+    {
+      "id": 3,
+      "title": "Google Pixel 7",
+      "price": 799,
+      "quantity": 1,
+      "image": "https://cdn.pixabay.com/photo/2022/10/14/09/58/google-pixel-7520958_1280.jpg",
+      "details": "The Google Pixel 7 is a flagship smartphone powered by Google's latest Android operating system. It features an impressive camera system, fast performance, and seamless integration with Google services.",
+      "sustainability": "Google is committed to sustainability. The Pixel 7 is designed with recyclable materials, and Google has implemented energy-efficient practices in its manufacturing facilities."
+    }
+  ]
+}

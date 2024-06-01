@@ -29,6 +29,7 @@ git clone [https://github.com/your-username/e-commerce-cart.git](https://github.
 
 
 
+![Screenshot (263)](https://github.com/suganyarajes/redux/assets/154896121/44c7578e-e221-4760-ac1b-242b8899b9c0)
 
 
 Steps to start application:

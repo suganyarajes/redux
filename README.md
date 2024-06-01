@@ -29,7 +29,7 @@ git clone [https://github.com/your-username/e-commerce-cart.git](https://github.
 
 
 
-![screencapture-localhost-5173-2024-04-23-20_29_42](https://github.com/vaaluvishnu5146/BookCommerce/assets/22257731/2778501e-3414-4991-8005-3ace6753f5c8)
+
 
 Steps to start application:
 
